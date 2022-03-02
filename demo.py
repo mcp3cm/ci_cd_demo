@@ -3,3 +3,6 @@ def demo1():
 
 def demo2():
   pass
+
+def demo3():
+  pass
