@@ -15,7 +15,7 @@ jobs:
     - name: Hello world action step
       uses: haruntuncay/github_action_demo@v1
       with:
-        repo-name: 'deneme repo name'
+        repo-path: 'deneme repo name'
 
     - name: Install dependencies
       run: |
