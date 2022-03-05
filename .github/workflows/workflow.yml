@@ -13,7 +13,7 @@ jobs:
         python-version: "3.10"
 
     - name: Hello world action step
-      uses: haruntuncay/github_action_demon@v1
+      uses: haruntuncay/github_action_demo@v1
       with:
         repo-name: 'deneme repo name'
 
