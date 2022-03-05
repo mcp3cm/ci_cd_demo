@@ -8,3 +8,5 @@ class Assignment:
     def incorrect_code(self):
         k = []
         return k['k']
+
+print('File /github/workspace/src/a is running')
