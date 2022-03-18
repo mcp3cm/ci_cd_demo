@@ -9,4 +9,4 @@ jobs:
 
     - name: Hello world action step
       id: hello
-      uses: haruntuncay/github_action_demo@v37
+      uses: haruntuncay/github_action_demo@v38
