@@ -5,14 +5,14 @@ class Assignment:
         Example: incr(3) -> 4
     '''
     def incr(self, n):
-        pass
+        return n+1
 
     '''
         Should return the squared value of the parameter n.
         Example: square(3) -> 9
     '''
     def square(self, n):
-        pass
+        return n**2
 
     '''
         Semantically incorrect code
