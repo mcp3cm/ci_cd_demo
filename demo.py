@@ -5,7 +5,7 @@ class Assignment:
         Example: incr(3) -> 4
     '''
     def incr(self, n):
-        return n+1
+        print(n+1)
 
     '''
         Should return the squared value of the parameter n.
