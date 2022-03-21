@@ -7,10 +7,7 @@ class Assignment:
     def incr(self, n):
    
 
-    '''
-        Should return the squared value of the parameter n.
-        Example: square(3) -> 9
-    '''
+    
     def square(self, n):
         return n**2
 
